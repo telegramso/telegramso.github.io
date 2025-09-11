@@ -22,6 +22,10 @@ https://wwac.lanzoub.com/b014wp8qmf
 https://wwac.lanzoub.com/b014wp8qmf  
 密码:e2il  
 
+快连加速器应用官网下载链接：  
+去不屏蔽这个快连网址的浏览器打开  
+https://8m5tnb.onelink.me/0Iq2/o5icc3wb  
+
 
 
 
