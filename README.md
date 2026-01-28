@@ -2,6 +2,7 @@
 
 Telegram纸飞机搜索机器人（能关键词搜索所有Telegram纸飞机的群组频道资源）：  
 https://t.me/tghotso  
+（把这个链接发到纸飞机任意聊天消息会话再打开即可，搜索本地城市名，可以找到大量同城修改茶室群，搜索颜色视频关键词，可以找到大量颜色视频）
   
 Telegram纸飞机安卓APP（Android）下载，Windows电脑版下载（download）地址：  
 http://wwamo.appboz.com/b014wp8bcf  
