@@ -1,4 +1,4 @@
-# telegramso.github.io
+# Telegram纸飞机电报下载安装登陆注册，购买成品号,搜索群组频道资源方法
 
 Telegram纸飞机搜索机器人（能关键词搜索所有Telegram纸飞机的群组频道资源）：  
 https://t.me/tghotso  
